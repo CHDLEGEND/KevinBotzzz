@@ -1,16 +1,9 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @KEVIN 🔭
+// M A D E  B Y  KEVIN 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,18 +37,18 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
+global.sig = 'https://www.instagram.com/__kevinchandra'
 global.sgh = 'https://github.com/Jikarinka'
 global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '083894136449'
+global.povo = '083894136449'
+global.pgopay = '083894136449'
+global.ppulsa = '083894136449'
+global.ppulsa2 = '083894136449'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
@@ -67,10 +60,10 @@ global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
+  ['6283894136449'],
+  ['6283894136449'],
   ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6283894136449', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
